@@ -1,0 +1,54 @@
+{
+  "title": "{websiteName} Blog Histórico",
+  "subtitle": "Descubre conocimientos e historias de nuestra plataforma de datos históricos y arqueológicos",
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Revelando los secretos de la antigua Mesopotamia",
+      "content": [
+        "Mesopotamia, a menudo llamada la cuna de la civilización, es un tesoro de maravillas arqueológicas. {websiteName} te trae historias fascinantes desde las ruinas de Sumeria, Babilonia y Asiria.",
+        "Explora artefactos antiguos, tabletas cuneiformes y la evolución de las primeras ciudades humanas a través de nuestros análisis detallados."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Egipto Antiguo: Más allá de las pirámides",
+      "content": [
+        "Desde los jeroglíficos hasta las tumbas reales, Egipto tiene una riqueza de historias esperando ser exploradas.",
+        "{websiteName} presenta estudios sobre el simbolismo de las tumbas faraónicas, los textos religiosos del Libro de los Muertos y descubrimientos en el Valle de los Reyes."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "El Imperio Romano en sus palabras",
+      "content": [
+        "A través de inscripciones latinas y registros militares, entendemos cómo el Imperio Romano gobernaba su vasto territorio.",
+        "Nuestros expertos en {websiteName} descifran tablillas, cartas personales y registros históricos que arrojan luz sobre la vida cotidiana de los romanos."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Secretos de la Antigua China",
+      "content": [
+        "Desde la dinastía Shang hasta los guerreros de terracota, China alberga miles de años de historia documentada.",
+        "En {websiteName}, exploramos antiguos manuscritos, tumbas imperiales y la evolución de la escritura china."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "La civilización del Valle del Indo revelada",
+      "content": [
+        "La civilización del Indo floreció en lo que hoy es Pakistán y el noroeste de la India.",
+        "Nuestros análisis destacan patrones urbanos avanzados, sistemas de drenaje sofisticados y el misterio de su escritura aún no descifrada."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Los mayas: Astronomía, escritura y ciudades ocultas",
+      "content": [
+        "El pueblo maya dejó un legado de templos, jeroglíficos y avanzados conocimientos astronómicos.",
+        "Con la ayuda de {websiteName}, exploramos descubrimientos recientes realizados por LIDAR en la selva mesoamericana y la reinterpretación de los códices mayas."
+      ]
+    }
+  ]
+}

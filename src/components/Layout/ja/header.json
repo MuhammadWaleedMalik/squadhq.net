@@ -1,0 +1,17 @@
+{
+  "logoAlt": "{websiteName} ロゴ",
+  "nav": {
+    "about": "私たちについて",
+    "uploadFiles": "ファイルをアップロード",
+    "searchHistory": "検索履歴",
+    "research": "研究",
+    "login": "ログイン",
+    "signup": "サインアップ",
+    "logout": "ログアウト",
+    "askQuestion": "質問する"
+  },
+  "languageSelector": {
+    "heading": "言語",
+    "changeLanguageLabel": "言語を変更"
+  }
+}

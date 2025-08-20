@@ -1,0 +1,17 @@
+{
+  "logoAlt": "{websiteName} Logo",
+  "nav": {
+    "about": "About",
+    "uploadFiles": "Upload Files",
+    "searchHistory": "Search History",
+    "research": "Research",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "askQuestion": "Ask Question"
+  },
+  "languageSelector": {
+    "heading": "Languages",
+    "changeLanguageLabel": "Change Language"
+  }
+}

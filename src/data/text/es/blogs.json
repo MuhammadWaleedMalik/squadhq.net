@@ -1,0 +1,54 @@
+{
+  "title": "{websiteName} Blog Histórico",
+  "subtitle": "Descubre conocimientos e historias de nuestra plataforma de datos históricos y arqueológicos",
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Revelando los secretos de la antigua Mesopotamia",
+      "content": [
+        "Mesopotamia, a menudo llamada la cuna de la civilización, es un tesoro de maravillas arqueológicas. {websiteName} te trae historias fascinantes desde las ruinas de Sumeria, Babilonia y Asiria.",
+        "Explora artefactos antiguos, tabletas cuneiformes y la evolución de las primeras ciudades humanas a través de nuestros análisis detallados."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Egipto Antiguo: Más allá de las pirámides",
+      "content": [
+        "Desde los jeroglíficos hasta las tumbas reales, Egipto tiene una riqueza de historias esperando ser exploradas.",
+        "{websiteName} presenta estudios sobre el simbolismo de las tumbas faraónicas, los textos religiosos del Libro de los Muertos y descubrimientos en el Valle de los Reyes."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "El Imperio Romano en sus palabras",
+      "content": [
+        "A través de inscripciones latinas y registros militares, entendemos cómo el Imperio Romano gobernaba su vasto territorio.",
+        "Nuestros expertos en {websiteName} descifran tablillas, cartas personales y registros históricos que arrojan luz sobre la vida cotidiana de los romanos."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Civilizaciones perdidas de América",
+      "content": [
+        "Descubre los misterios de los mayas, aztecas e incas con {websiteName}.",
+        "Exploramos ruinas como Machu Picchu, códices antiguos y estructuras piramidales que cuentan la historia de culturas avanzadas antes de la colonización."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "La Edad Media a través de manuscritos iluminados",
+      "content": [
+        "Los manuscritos medievales no solo contienen textos religiosos, sino también arte, ciencia y pensamiento filosófico.",
+        "En {websiteName}, analizamos estas fuentes primarias para comprender mejor la vida, el conocimiento y la fe en la Europa medieval."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "La Ruta de la Seda: Conectando culturas antiguas",
+      "content": [
+        "Desde China hasta el Mediterráneo, la Ruta de la Seda facilitó el comercio y el intercambio cultural durante siglos.",
+        "{websiteName} examina mapas antiguos, registros comerciales y relatos de viajeros para revelar cómo esta red cambió el mundo antiguo."
+      ]
+    }
+  ]
+}

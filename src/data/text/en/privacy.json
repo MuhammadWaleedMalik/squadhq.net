@@ -1,0 +1,26 @@
+{
+  "title": "{websiteName} Privacy Policy",
+  "subtitle": "Protecting your data while you explore our historical and archaeological platform",
+  "content": [
+    "At {websiteName}, we are committed to safeguarding your privacy as you engage with our historical and archaeological data platform. This Privacy Policy outlines how we collect, use, and protect your information.",
+    "We adhere to strict data protection standards to ensure your personal information remains secure while you access our curated resources, virtual tours, and research tools."
+  ],
+  "sections": [
+    {
+      "title": "Data Collection",
+      "content": "We collect personal information, such as your name, email, and account preferences, when you register on {websiteName}. We also gather usage data, like browsing history and interaction with archaeological content, to enhance your experience. All data collection complies with applicable privacy laws and is used solely to improve our services."
+    },
+    {
+      "title": "Data Usage",
+      "content": "Your information is used to provide personalized access to {websiteName}’s features, such as tailored content recommendations and research tools. We may analyze usage patterns to improve our platform’s functionality and ensure the accuracy of historical and archaeological data. We do not sell or share your data with third parties without your consent, except as required by law."
+    },
+    {
+      "title": "Data Protection",
+      "content": "{websiteName} employs industry-standard encryption, secure authentication, and blockchain-based verification to protect your data. Our platform ensures that your interactions with sensitive archaeological records, such as artifact metadata, remain confidential. You are responsible for maintaining the security of your account credentials."
+    },
+    {
+      "title": "Your Rights",
+      "content": "You have the right to access, update, or delete your personal information on {websiteName}. You can manage your data preferences through your account settings or contact us at {websiteInfo.mail} for assistance. We comply with global data protection regulations, ensuring transparency and control over your data while exploring our historical resources."
+    }
+  ]
+}

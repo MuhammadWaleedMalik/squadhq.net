@@ -1,0 +1,120 @@
+{
+  "page1": {
+    "title": "Preserving the Past for the Future",
+    "description": "is your online archive for archaeological information."
+  },
+  "page2": {
+    "items": [
+      {
+        "title": "Access / Use",
+        "subtitle": "Access & Use",
+        "description": "Broadening the access to archaeological data through simple search and browse functionality.",
+        "icon": "Search"
+      },
+      {
+        "title": "Stewardship",
+        "subtitle": "Upload Resources",
+        "description": "Contribute documents, datasets, images, and other critical archaeological materials.",
+        "icon": "Upload"
+      },
+      {
+        "title": "Preservation",
+        "subtitle": "Preservation",
+        "description": "Dedicated to ensuring long-term preservation of digital archaeological data.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Use",
+        "subtitle": "Who Uses ",
+        "description": "Researchers like you. Uncover knowledge of the past, and preserve and protect resources.",
+        "icon": "Users"
+      }
+    ]
+  },
+  "page3": {
+    "slides": [
+      {
+          "image": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/geojson(%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22stroke-width%22%3A4%2C%22stroke%22%3A%22%237a1501%22%2C%22stroke-opacity%22%3A0.5%2C%22fill-opacity%22%3A0.15%7D%2C%22geometry%22%3A%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B-110.64846066266844%2C32.82611990954123%5D%2C%5B-110.64846066266844%2C32.85809331698177%5D%2C%5B-110.61125924478108%2C32.85809331698177%5D%2C%5B-110.61125924478108%2C32.82611990954123%5D%2C%5B-110.64846066266844%2C32.82611990954123%5D%5D%5D%7D%7D)/auto/410x235?access_token=pk.eyJ1IjoiYWJyaW4iLCJhIjoiNzNlMWRhMDQ1MTBlYzAwMmRiOTRhNzYxMTY2NDY1MTMifQ.ZDirx5xDnYHsAo7kxAI13g",
+          "title": "Global Archaeological Database",
+          "text": "Dive into one of the world’s largest repositories of archaeological records, spanning continents and cultures. Our database brings together thousands of site reports, excavation logs, and cultural artifacts. Whether you're a professional archaeologist or a curious student, this resource will empower your research. Updated regularly with new findings and verified insights. Discover the hidden past of humanity with just a few clicks."
+     },
+      {
+        "image": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/geojson(%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22stroke-width%22%3A4%2C%22stroke%22%3A%22%237a1501%22%2C%22stroke-opacity%22%3A0.5%2C%22fill-opacity%22%3A0.15%7D%2C%22geometry%22%3A%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B32.687539757532264%2C25.89280190702591%5D%2C%5B32.687539757532264%2C25.934113828425843%5D%2C%5B32.71720303681896%2C25.934113828425843%5D%2C%5B32.71720303681896%2C25.89280190702591%5D%2C%5B32.687539757532264%2C25.89280190702591%5D%5D%5D%7D%7D)/auto/410x235?access_token=pk.eyJ1IjoiYWJyaW4iLCJhIjoiNzNlMWRhMDQ1MTBlYzAwMmRiOTRhNzYxMTY2NDY1MTMifQ.ZDirx5xDnYHsAo7kxAI13g",
+        "title": "Secure Data Preservation",
+       "text": "Your archaeological data is too important to be lost to time. Our platform employs military-grade encryption, redundant backups, and advanced metadata structures. We ensure your records remain intact, accessible, and preserved across generations. This is not just storage—it's a digital legacy for the future. Safeguard your discoveries with confidence and cutting-edge technology."
+   },
+      {
+        "image": "https://core.tdar.org/files/sm/104896",
+        "title": "Research Collaboration",
+        "text": "Break down geographic and academic barriers with our global research network. Collaborate with leading experts, universities, and institutions on groundbreaking archaeological projects. Share ideas, co-publish findings, and expand your impact. Our platform makes cross-border academic teamwork effortless. Build bridges, share knowledge, and fuel the next era of discovery."
+     }
+    ]
+  },
+ "page4": {
+  "title": "What's New ?",
+  "newsItems": [
+    {
+      "date": "Sep 29",
+      "title": "Pricing Changes",
+      "author": "Rachel Fernandez",
+      "text": "Rachel Fernandez, a seasoned archaeologist with over 15 years of field and archival experience, discusses the latest updates to our platform’s pricing structure. Her insights ensure transparency and help institutions plan better for data access and storage."
+    },
+    {
+      "date": "May 16",
+      "title": "Introducing Sébastien Plutniak",
+      "author": "Rachel Fernandez",
+      "text": "In this feature, Rachel Fernandez presents the groundbreaking work of Dr. Sébastien Plutniak, a renowned archaeological data specialist. Discover how his innovations are shaping the way we analyze and interpret archaeological datasets."
+    },
+    {
+      "date": "Mar 27",
+      "title": "2023 SAA Conference",
+      "author": "Rachel Fernandez",
+      "text": "Rachel Fernandez provides a rich recap of the 2023 Society for American Archaeology conference. With her expert lens, she highlights key presentations and workshops that are redefining best practices in digital archaeology."
+    },
+    {
+      "date": "Mar 29",
+      "title": "2022 SAA Conference",
+      "author": "Rachel Fernandez",
+      "text": "Take a look back at the 2022 SAA Conference with Rachel Fernandez, who blends academic rigor with personal narrative to spotlight emerging technologies and collaborative research trends in the archaeological community."
+    },
+    {
+      "date": "Jul 30",
+      "title": "Archaeology and Data Management Survey",
+      "author": "Rachel Fernandez",
+      "text": "This blog summarizes Rachel Fernandez’s comprehensive survey on how archaeologists manage their digital data. Drawing from her global fieldwork, she reflects on the evolving needs and digital solutions within the archaeological profession."
+    }
+  ]
+
+},
+  "page5": {
+    "title": "Featured Collection",
+    "content": "Center for Advanced Spatial Technologies (CAST), University of Arkansas: The Center for Advanced Spatial Technologies (CAST), located at the University of Arkansas, focuses on research, education, and outreach related to geoinformatics and geomatics. Specific areas of research in these fields include GIS, geospatial analysis and modeling, high density survey, enterprise spatial databases, remote sensing, digital photogrammetry, and geospatial data and model interoperability. CAST's research efforts involve new approaches to spatial data as well as the development of new methodologies for analysis of these data."
+  },
+  "page6": {
+    "title": "Advanced Research Tools",
+    "content": "Our platform provides powerful tools for archaeological research and data analysis. With {website.name}, you can access specialized datasets, perform spatial analysis, and collaborate with researchers worldwide. Our tools are designed to support both academic research and cultural heritage management."
+  },
+  "page7": {
+    "title": "What Researchers Say About Us",
+    "reviews": [
+      {
+        "name": "Dr. Sarah Johnson",
+        "role": "Archaeology Professor, University of Arizona",
+        "quote": "{website.name} has transformed how we access and share archaeological data. The preservation features give me confidence that our research will be available for future generations.",
+        "rating": 5
+      },
+      {
+        "name": "Mark Williams",
+        "role": "Cultural Resource Manager",
+        "quote": "The search functionality and data organization in {website.name} saves us countless hours in our fieldwork planning and reporting.",
+        "rating": 4
+      },
+      {
+        "name": "Dr. Elena Rodriguez",
+        "role": "Research Fellow, Mexico City",
+        "quote": "As an international researcher, I appreciate how {website.name} connects me with colleagues and resources worldwide. It's become an essential tool for my work.",
+        "rating": 5
+      }
+    ]
+  }
+}

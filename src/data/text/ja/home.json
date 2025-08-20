@@ -1,0 +1,119 @@
+{
+  "page1": {
+    "title": "未来のために過去を保存する",
+    "description": "は考古学情報のオンラインアーカイブです。"
+  },
+  "page2": {
+    "items": [
+      {
+        "title": "Access / Use",
+        "subtitle": "アクセスと利用",
+        "description": "簡単な検索と閲覧機能を通じて考古学データへのアクセスを拡大します。",
+        "icon": "Search"
+      },
+      {
+        "title": "Stewardship",
+        "subtitle": "リソースのアップロード",
+        "description": "文書、データセット、画像など重要な考古学資料を共有できます。",
+        "icon": "Upload"
+      },
+      {
+        "title": "Preservation",
+        "subtitle": "保存",
+        "description": "デジタル考古学データの長期保存を保証します。",
+        "icon": "Shield"
+      },
+      {
+        "title": "Use",
+        "subtitle": "誰が使っているか",
+        "description": "あなたのような研究者。過去を明らかにし、資源を守ります。",
+        "icon": "Users"
+      }
+    ]
+  },
+  "page3": {
+    "slides": [
+      {
+        "image": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/geojson(%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22stroke-width%22%3A4%2C%22stroke%22%3A%22%237a1501%22%2C%22stroke-opacity%22%3A0.5%2C%22fill-opacity%22%3A0.15%7D%2C%22geometry%22%3A%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B-110.64846066266844%2C32.82611990954123%5D%2C%5B-110.64846066266844%2C32.85809331698177%5D%2C%5B-110.61125924478108%2C32.85809331698177%5D%2C%5B-110.61125924478108%2C32.82611990954123%5D%2C%5B-110.64846066266844%2C32.82611990954123%5D%5D%5D%7D%7D)/auto/410x235?access_token=pk.eyJ1IjoiYWJyaW4iLCJhIjoiNzNlMWRhMDQ1MTBlYzAwMmRiOTRhNzYxMTY2NDY1MTMifQ.ZDirx5xDnYHsAo7kxAI13g",
+        "title": "世界の考古学データベース",
+        "text": "世界最大級の考古記録リポジトリを探索しましょう。遺跡報告書、発掘ログ、文化資料を集約し、プロの考古学者から学生まで幅広く利用できます。常に最新の情報に更新されており、人類の隠された過去を簡単に発見できます。"
+      },
+      {
+        "image": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/geojson(%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22stroke-width%22%3A4%2C%22stroke%22%3A%22%237a1501%22%2C%22stroke-opacity%22%3A0.5%2C%22fill-opacity%22%3A0.15%7D%2C%22geometry%22%3A%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B32.687539757532264%2C25.89280190702591%5D%2C%5B32.687539757532264%2C25.934113828425843%5D%2C%5B32.71720303681896%2C25.934113828425843%5D%2C%5B32.71720303681896%2C25.89280190702591%5D%2C%5B32.687539757532264%2C25.89280190702591%5D%5D%5D%7D%7D)/auto/410x235?access_token=pk.eyJ1IjoiYWJyaW4iLCJhIjoiNzNlMWRhMDQ1MTBlYzAwMmRiOTRhNzYxMTY2NDY1MTMifQ.ZDirx5xDnYHsAo7kxAI13g",
+        "title": "安全なデータ保存",
+        "text": "考古学データは時間に埋もれてはなりません。当プラットフォームは軍事レベルの暗号化、冗長バックアップ、高度なメタデータ構造を採用し、データを長期的に保存します。これはただの保存ではなく、未来へのデジタル遺産です。"
+      },
+      {
+        "image": "https://core.tdar.org/files/sm/104896",
+        "title": "研究協力",
+        "text": "地理や学術の壁を越えて、グローバルな研究ネットワークで協力。アイデアを共有し、共同研究・出版を行い、影響力を広げましょう。"
+      }
+    ]
+  },
+  "page4": {
+    "title": "{website.name} の最新情報",
+    "newsItems": [
+      {
+        "date": "9月29日",
+        "title": "価格の変更",
+        "author": "Rachel Fernandez",
+        "text": "15年以上の現場とアーカイブ経験を持つ考古学者Rachel Fernandezが、プラットフォームの価格改定について詳しく解説しています。"
+      },
+      {
+        "date": "5月16日",
+        "title": "Sébastien Plutniak の紹介",
+        "author": "Rachel Fernandez",
+        "text": "考古データの専門家Sébastien Plutniak博士の革新的な仕事を紹介。彼の取り組みは、考古学データの分析と解釈を進化させています。"
+      },
+      {
+        "date": "3月27日",
+        "title": "2023年 SAA カンファレンス",
+        "author": "Rachel Fernandez",
+        "text": "2023年の米国考古学会（SAA）の報告と注目発表について解説します。"
+      },
+      {
+        "date": "3月29日",
+        "title": "2022年 SAA カンファレンス",
+        "author": "Rachel Fernandez",
+        "text": "2022年の会議を振り返り、新技術や共同研究のトレンドに焦点を当てます。"
+      },
+      {
+        "date": "7月30日",
+        "title": "考古学とデータ管理調査",
+        "author": "Rachel Fernandez",
+        "text": "Rachelが実施した考古学者のデータ管理方法に関する調査を要約。デジタル時代のニーズとソリューションを紹介します。"
+      }
+    ]
+  },
+  "page5": {
+    "title": "注目のコレクション",
+    "content": "アーカンソー大学 高度空間技術センター（CAST）：地理情報学や測地学に関する研究、教育、普及活動に焦点を当てています。研究分野にはGIS、リモートセンシング、空間分析、高密度調査、空間データベースなどが含まれます。"
+  },
+  "page6": {
+    "title": "高度な研究ツール",
+    "content": "{website.name}では、専門的なデータセットへのアクセス、空間分析の実施、世界中の研究者との協力が可能です。学術研究および文化遺産管理をサポートします。"
+  },
+  "page7": {
+    "title": "研究者の声",
+    "reviews": [
+      {
+        "name": "Dr. Sarah Johnson",
+        "role": "アリゾナ大学 考古学教授",
+        "quote": "{website.name} は考古データのアクセスと共有方法を革新しました。保存機能により、私たちの研究が将来にわたって残ると確信できます。",
+        "rating": 5
+      },
+      {
+        "name": "Mark Williams",
+        "role": "文化資源マネージャー",
+        "quote": "{website.name} の検索機能とデータ整理によって、現地調査の準備や報告作業が大幅に効率化されました。",
+        "rating": 4
+      },
+      {
+        "name": "Dr. Elena Rodriguez",
+        "role": "メキシコシティ 研究フェロー",
+        "quote": "国際的な研究者として、{website.name} を通じて世界中の仲間と繋がれるのは大きな利点です。欠かせないツールです。",
+        "rating": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "考古データのアップロード",
+  "subtitle": "私たちの増え続ける考古学的発見と研究資料のデータベースに貢献しましょう",
+  "uploadTitle": "ここにファイルをドラッグ＆ドロップ",
+  "uploadDescription": "あるいはクリックして考古資料ファイルをコンピュータから選択",
+  "uploadButton": "ファイルを選択",
+  "selectedFiles": "選択されたファイル",
+  "complete": "完了",
+  "uploadProgress": "アップロード進行状況",
+  "uploadingButton": "アップロード中…",
+  "submitButton": "ファイルを送信",
+  "metadataTitle": "ファイルのメタデータ",
+  "metadataDescription": "分類と検索に役立つように、考古資料についての情報をご提供ください",
+  "formFields": {
+    "siteName": "サイト名",
+    "location": "地理的位置",
+    "era": "歴史時代",
+    "description": "説明",
+    "tags": "タグ",
+    "tagsPlaceholder": "例：陶器、新石器時代、発掘"
+  },
+  "supportedFilesTitle": "対応ファイル形式",
+  "fileTypes": [
+    {
+      "name": "ドキュメント",
+      "formats": "PDF、DOC、DOCX、TXT"
+    },
+    {
+      "name": "画像",
+      "formats": "JPG、PNG、TIFF"
+    },
+    {
+      "name": "地図",
+      "formats": "GeoJSON、SHP、KML"
+    },
+    {
+      "name": "データセット",
+      "formats": "CSV、XLSX、JSON"
+    }
+  ],
+  "howItWorksTitle": "ご利用の手順",
+  "steps": [
+    {
+      "title": "ファイルをアップロード",
+      "description": "パソコンから考古文書、画像、データセットを選択します"
+    },
+    {
+      "title": "メタデータを追加",
+      "description": "他のユーザーがファイルを見つけて使用しやすくするために、詳細を提供してください"
+    },
+    {
+      "title": "研究者と共有",
+      "description": "あなたのファイルは全世界の考古学者や研究者に利用可能になります"
+    }
+  ],
+  "faqTitle": "よくある質問",
+  "faqs": [
+    {
+      "question": "どのようなタイプの考古データをアップロードできますか？",
+      "answer": "発掘報告書、遺物カタログ、サイトマップ、写真、3D スキャン、その他考古学関連の研究資料をアップロードできます。"
+    },
+    {
+      "question": "私のデータはどのように保護されますか？",
+      "answer": "アップロードされたすべてのファイルは安全に保存されます。敏感な資料にはアクセス制限をかけるか、公開共有を選択できます。"
+    },
+    {
+      "question": "大容量のデータセットをアップロードできますか？",
+      "answer": "はい、1 ファイルあたり最大 5GB のアップロードに対応しています。さらに大きなデータの場合はサポートチームにご連絡ください。"
+    },
+    {
+      "question": "ここで見つけた資料はどのように引用すればよいですか？",
+      "answer": "各ファイルには研究に使用できる引用情報が含まれています。元の貢献者への適切な帰属をお願いします。"
+    }
+  ]
+}

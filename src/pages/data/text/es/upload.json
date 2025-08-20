@@ -1,0 +1,75 @@
+{
+  "title": "Subir datos arqueológicos",
+  "subtitle": "Contribuye a nuestra creciente base de datos de hallazgos arqueológicos y materiales de investigación",
+  "uploadTitle": "Arrastra y suelta archivos aquí",
+  "uploadDescription": "O haz clic para buscar en tu computadora archivos arqueológicos para subir",
+  "uploadButton": "Seleccionar archivos",
+  "selectedFiles": "Archivos seleccionados",
+  "complete": "Completo",
+  "uploadProgress": "Progreso de carga",
+  "uploadingButton": "Subiendo...",
+  "submitButton": "Enviar archivos",
+  "metadataTitle": "Metadatos del archivo",
+  "metadataDescription": "Por favor, proporciona información sobre tus archivos arqueológicos para ayudar en su categorización y búsqueda",
+  "formFields": {
+    "siteName": "Nombre del sitio",
+    "location": "Ubicación geográfica",
+    "era": "Época histórica",
+    "description": "Descripción",
+    "tags": "Etiquetas",
+    "tagsPlaceholder": "p. ej., cerámica, neolítico, excavación"
+  },
+  "supportedFilesTitle": "Tipos de archivo compatibles",
+  "fileTypes": [
+    {
+      "name": "Documentos",
+      "formats": "PDF, DOC, DOCX, TXT"
+    },
+    {
+      "name": "Imágenes",
+      "formats": "JPG, PNG, TIFF"
+    },
+    {
+      "name": "Mapas",
+      "formats": "GeoJSON, SHP, KML"
+    },
+    {
+      "name": "Conjuntos de datos",
+      "formats": "CSV, XLSX, JSON"
+    }
+  ],
+  "howItWorksTitle": "Cómo funciona",
+  "steps": [
+    {
+      "title": "Sube tus archivos",
+      "description": "Selecciona documentos, imágenes o conjuntos de datos arqueológicos desde tu computadora"
+    },
+    {
+      "title": "Agrega metadatos",
+      "description": "Proporciona detalles sobre tus archivos para ayudar a otros a descubrirlos y utilizarlos"
+    },
+    {
+      "title": "Comparte con investigadores",
+      "description": "Tus archivos estarán disponibles para arqueólogos e investigadores de todo el mundo"
+    }
+  ],
+  "faqTitle": "Preguntas frecuentes",
+  "faqs": [
+    {
+      "question": "¿Qué tipos de datos arqueológicos puedo subir?",
+      "answer": "Puedes subir informes de excavación, catálogos de artefactos, mapas de sitios, fotografías, escaneos 3D y cualquier otro material de investigación relacionado con arqueología."
+    },
+    {
+      "question": "¿Cómo se protege mi información?",
+      "answer": "Todos los archivos subidos se almacenan de forma segura. Puedes elegir entre compartirlos públicamente o restringir el acceso para materiales sensibles."
+    },
+    {
+      "question": "¿Puedo subir grandes conjuntos de datos?",
+      "answer": "Sí, soportamos cargas de archivos de hasta 5 GB por archivo. Para conjuntos de datos aún más grandes, por favor contacta a nuestro equipo de soporte."
+    },
+    {
+      "question": "¿Cómo cito los materiales que encuentro aquí?",
+      "answer": "Cada archivo incluye información de citación que puedes usar en tu investigación. Por favor, da el crédito adecuado a los colaboradores originales."
+    }
+  ]
+}

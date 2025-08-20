@@ -1,0 +1,54 @@
+{
+  "title": "考古与地质问答",
+  "subtitle": "向考古和地质领域的专家提问并获得解答",
+  "categoriesTitle": "分类",
+  "categories": [
+    { "id": "archaeology", "name": "考古学", "count": "245" },
+    { "id": "geology", "name": "地质学", "count": "189" },
+    { "id": "dating", "name": "测年方法", "count": "76" }
+  ],
+  "askQuestionTitle": "提出问题",
+  "formFields": {
+    "title": "你的考古或地质问题是什么？",
+    "body": "请提供有关问题的详细信息……",
+    "tags": "添加标签（用逗号分隔）",
+    "tagsHint": "例如：地层学，陶器，碳十四，矿物"
+  },
+  "submitQuestion": "发布问题",
+  "searchPlaceholder": "搜索问题……",
+  "filters": {
+    "recent": "最新",
+    "unanswered": "未回答",
+    "popular": "热门"
+  },
+  "answer": "个回答",
+  "answers": "个回答",
+  "expert": "专家",
+  "noAnswers": "暂无回答。快来抢先回答吧！",
+  "addAnswerPlaceholder": "写下你的回答……",
+  "postAnswer": "发布回答",
+  "noQuestionsTitle": "未找到相关问题",
+  "noQuestionsDescription": "请尝试更改搜索条件或提出一个新问题",
+  "sampleQuestions": [
+    {
+      "title": "如何区分自然层与文化层？",
+      "body": "我正在一个具有复杂地层的遗址工作，难以分辨自然沉积与文化层。有哪些特征可以帮助识别？",
+      "answers": [
+        "观察土壤质地、颜色和组成的变化。文化层通常含有人类活动的遗物、木炭或其他改造痕迹。显微形态分析也是一种有效的识别方法。"
+      ]
+    },
+    {
+      "title": "新石器时代陶器碎片的最佳分类方法是什么？",
+      "body": "我在一个新石器时代遗址中发掘了几片陶器碎片，但不确定使用哪种分类方法。有什么建议吗？",
+      "answers": []
+    },
+    {
+      "title": "在野外条件下如何区分石英和长石？",
+      "body": "作为初学者地质学者，我在实地工作中难以区分石英和长石。有不用实验室设备的实用识别技巧吗？",
+      "answers": [
+        "石英硬度为7，无法被钢刀划伤，而长石硬度为6-6.5，可以被划伤。石英没有解理，通常呈贝壳状断口。",
+        "试试“牙齿测试”——石英触感更冷，因为它的热导率更高。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+  {
+  "page1": {
+    "title": "为未来保存过去",
+    "description": "是您在线的考古信息档案库。"
+  },
+  "page2": {
+    "items": [
+      {
+        "title": "Access / Use",
+        "subtitle": "访问与使用",
+        "description": "通过简单的搜索和浏览功能扩大对考古数据的访问。",
+        "icon": "Search"
+      },
+      {
+        "title": "Stewardship",
+        "subtitle": "上传资源",
+        "description": "贡献文档、数据集、图像和其他重要的考古材料。",
+        "icon": "Upload"
+      },
+      {
+        "title": "Preservation",
+        "subtitle": "保存",
+        "description": "致力于确保数字考古数据的长期保存。",
+        "icon": "Shield"
+      },
+      {
+        "title": "Use",
+        "subtitle": "谁在使用",
+        "description": "像你这样的研究人员。发掘过去的知识，并保护资源。",
+        "icon": "Users"
+      }
+    ]
+  },
+  "page3": {
+    "slides": [
+      {
+        "image": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/geojson(%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22stroke-width%22%3A4%2C%22stroke%22%3A%22%237a1501%22%2C%22stroke-opacity%22%3A0.5%2C%22fill-opacity%22%3A0.15%7D%2C%22geometry%22%3A%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B-110.64846066266844%2C32.82611990954123%5D%2C%5B-110.64846066266844%2C32.85809331698177%5D%2C%5B-110.61125924478108%2C32.85809331698177%5D%2C%5B-110.61125924478108%2C32.82611990954123%5D%2C%5B-110.64846066266844%2C32.82611990954123%5D%5D%5D%7D%7D)/auto/410x235?access_token=pk.eyJ1IjoiYWJyaW4iLCJhIjoiNzNlMWRhMDQ1MTBlYzAwMmRiOTRhNzYxMTY2NDY1MTMifQ.ZDirx5xDnYHsAo7kxAI13g",
+        "title": "全球考古数据库",
+        "text": "探索世界上最大的考古记录库之一，跨越多个大陆和文化。我们的数据库整合了成千上万的遗址报告、发掘日志和文化遗产。无论您是专业考古学家还是好奇的学生，这个资源都能助力您的研究。定期更新，内容经过验证。只需点击几下，揭开人类隐藏的过去。"
+      },
+      {
+        "image": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/geojson(%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22stroke-width%22%3A4%2C%22stroke%22%3A%22%237a1501%22%2C%22stroke-opacity%22%3A0.5%2C%22fill-opacity%22%3A0.15%7D%2C%22geometry%22%3A%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B32.687539757532264%2C25.89280190702591%5D%2C%5B32.687539757532264%2C25.934113828425843%5D%2C%5B32.71720303681896%2C25.934113828425843%5D%2C%5B32.71720303681896%2C25.89280190702591%5D%2C%5B32.687539757532264%2C25.89280190702591%5D%5D%5D%7D%7D)/auto/410x235?access_token=pk.eyJ1IjoiYWJyaW4iLCJhIjoiNzNlMWRhMDQ1MTBlYzAwMmRiOTRhNzYxMTY2NDY1MTMifQ.ZDirx5xDnYHsAo7kxAI13g",
+        "title": "安全的数据保存",
+        "text": "您的考古数据太重要，不能任其失传。我们平台采用军用级加密、冗余备份和先进的元数据结构，确保记录长期完整、可访问和保存。这里不仅是存储——是未来的数字遗产。"
+      },
+      {
+        "image": "https://core.tdar.org/files/sm/104896",
+        "title": "研究协作",
+        "text": "通过我们的全球研究网络打破地域与学术壁垒。与世界各地的专家、高校和机构合作，推动考古项目的发展。共享思想，共同发表成果，拓展影响力。"
+      }
+    ]
+  },
+  "page4": {
+    "title": "在 {website.name} 有哪些新动态？",
+    "newsItems": [
+      {
+        "date": "9月29日",
+        "title": "价格变更",
+        "author": "Rachel Fernandez",
+        "text": "资深考古学家 Rachel Fernandez 介绍了我们平台最新的定价结构更新，帮助机构更好地进行访问和存储规划。"
+      },
+      {
+        "date": "5月16日",
+        "title": "介绍 Sébastien Plutniak",
+        "author": "Rachel Fernandez",
+        "text": "了解考古数据专家 Dr. Sébastien Plutniak 的创新工作，他正在重新定义我们分析与解释数据的方式。"
+      },
+      {
+        "date": "3月27日",
+        "title": "2023年 SAA 会议",
+        "author": "Rachel Fernandez",
+        "text": "Rachel Fernandez 回顾了 2023 年美国考古学会年会的精彩内容，重点介绍了数字考古领域的最佳实践和前沿技术。"
+      },
+      {
+        "date": "3月29日",
+        "title": "2022年 SAA 会议",
+        "author": "Rachel Fernandez",
+        "text": "通过她的视角了解 2022 年会议的亮点，涵盖新兴技术和全球协作研究趋势。"
+      },
+      {
+        "date": "7月30日",
+        "title": "考古与数据管理调查",
+        "author": "Rachel Fernandez",
+        "text": "Rachel Fernandez 分享她关于全球考古数据管理方式的综合调查，揭示行业数字化需求的演变。"
+      }
+    ]
+  },
+  "page5": {
+    "title": "精选收藏",
+    "content": "阿肯色大学高级空间技术中心（CAST）：CAST 专注于地理信息学与测绘学相关研究、教育与推广。研究领域包括 GIS、空间建模、高密度调查、远程感应、数字摄影测量、空间数据库和数据互操作性。"
+  },
+  "page6": {
+    "title": "先进的研究工具",
+    "content": "我们的平台提供强大的考古研究与数据分析工具。通过 {website.name}，您可以访问专用数据集、执行空间分析并与全球研究人员协作，服务于学术研究与文化遗产管理。"
+  },
+  "page7": {
+    "title": "研究人员如何评价我们",
+    "reviews": [
+      {
+        "name": "Dr. Sarah Johnson",
+        "role": "亚利桑那大学考古学教授",
+        "quote": "{website.name} 改变了我们获取与共享考古数据的方式。其保存功能让我相信我们的研究会代代相传。",
+        "rating": 5
+      },
+      {
+        "name": "Mark Williams",
+        "role": "文化资源管理者",
+        "quote": "{website.name} 的搜索功能和数据结构节省了我们大量的现场规划和报告时间。",
+        "rating": 4
+      },
+      {
+        "name": "Dr. Elena Rodriguez",
+        "role": "墨西哥城研究员",
+        "quote": "作为国际研究人员，我很欣赏 {website.name} 让我能轻松连接全球的同事和资源。这是我研究的重要工具。",
+        "rating": 5
+      }
+    ]
+  }
+}

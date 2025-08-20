@@ -1,0 +1,26 @@
+{
+  "title": "Acerca de {websiteName}",
+  "subtitle": "Descubre la misión y visión detrás de nuestra plataforma de datos históricos y arqueológicos",
+  "content": [
+    "{websiteName} está dedicado a preservar y compartir el rico tapiz de la historia humana y los descubrimientos arqueológicos. Nuestra plataforma conecta a investigadores, educadores y entusiastas con datos seleccionados y herramientas interactivas.",
+    "Fundado por un equipo apasionado por descubrir el pasado, {websiteName} tiene como objetivo hacer que el conocimiento histórico y arqueológico sea accesible para todos, fomentando una comunidad global de aprendices y exploradores."
+  ],
+  "sections": [
+    {
+      "title": "Nuestro Equipo",
+      "content": "El equipo de {websiteName} está compuesto por arqueólogos, historiadores, científicos de datos y tecnólogos unidos por una pasión por preservar el pasado. Colaboramos con instituciones globales para garantizar que nuestro contenido sea preciso y tenga impacto. Nuestros expertos seleccionan conjuntos de datos, desde textos antiguos hasta modelos 3D de artefactos, para apoyar la investigación y la educación. Contáctanos en {websiteInfo.mail} para conocer más sobre el trabajo de nuestro equipo."
+    },
+    {
+      "title": "Nuestra Misión",
+      "content": "En {websiteName}, nuestra misión es democratizar el acceso al conocimiento histórico y arqueológico. Proporcionamos datos verificados y de alta calidad, incluidos registros de excavaciones y recorridos virtuales por sitios, para inspirar la curiosidad y el descubrimiento. Aprovechando la tecnología, buscamos preservar el patrimonio cultural y hacerlo accesible a una audiencia global, desde estudiantes hasta investigadores experimentados."
+    },
+    {
+      "title": "Nuestra Visión",
+      "content": "Imaginamos a {websiteName} como la plataforma líder para explorar la historia humana, conectando el pasado con el presente. Nuestro objetivo es crear un archivo digital inmersivo donde los usuarios puedan interactuar con civilizaciones antiguas a través de herramientas interactivas como reconstrucciones 3D y mapas de rutas comerciales. Nos esforzamos por fomentar una comunidad que valore y proteja nuestro patrimonio compartido."
+    },
+    {
+      "title": "Nuestra Comunidad",
+      "content": "{websiteName} prospera gracias a las contribuciones de su comunidad global. Los investigadores pueden compartir hallazgos, los educadores pueden acceder a recursos didácticos y los entusiastas pueden unirse a discusiones sobre civilizaciones antiguas. Nuestra plataforma admite contenido generado por usuarios, verificado por su precisión, para enriquecer nuestra base de datos. Únete a nosotros para explorar, contribuir y conectarte con otros apasionados por la historia y la arqueología."
+    }
+  ]
+}

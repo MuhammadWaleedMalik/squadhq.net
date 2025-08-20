@@ -1,0 +1,54 @@
+{
+  "title": "Preguntas y Respuestas Arqueológicas y Geológicas",
+  "subtitle": "Haz preguntas y recibe respuestas de expertos en arqueología y geología",
+  "categoriesTitle": "Categorías",
+  "categories": [
+    { "id": "archaeology", "name": "Arqueología", "count": "245" },
+    { "id": "geology", "name": "Geología", "count": "189" },
+    { "id": "dating", "name": "Métodos de datación", "count": "76" }
+  ],
+  "askQuestionTitle": "Haz una pregunta",
+  "formFields": {
+    "title": "¿Cuál es tu pregunta arqueológica o geológica?",
+    "body": "Proporciona información detallada sobre tu pregunta...",
+    "tags": "Agrega etiquetas (separadas por comas)",
+    "tagsHint": "ej.: estratigrafía, cerámica, radiocarbono, minerales"
+  },
+  "submitQuestion": "Publicar pregunta",
+  "searchPlaceholder": "Buscar preguntas...",
+  "filters": {
+    "recent": "Recientes",
+    "unanswered": "Sin responder",
+    "popular": "Populares"
+  },
+  "answer": "respuesta",
+  "answers": "respuestas",
+  "expert": "Experto",
+  "noAnswers": "Aún no hay respuestas. ¡Sé el primero en responder!",
+  "addAnswerPlaceholder": "Escribe tu respuesta...",
+  "postAnswer": "Publicar respuesta",
+  "noQuestionsTitle": "No se encontraron preguntas",
+  "noQuestionsDescription": "Intenta ajustar tu búsqueda o haz una nueva pregunta",
+  "sampleQuestions": [
+    {
+      "title": "¿Cómo puedo distinguir entre capas naturales y culturales en la estratigrafía?",
+      "body": "Estoy trabajando en un sitio con estratigrafía compleja y tengo dificultades para distinguir entre depósitos geológicos naturales y capas culturales. ¿Qué indicadores debo buscar?",
+      "answers": [
+        "Busca cambios en la textura, color y composición del suelo. Las capas culturales suelen contener artefactos, carbón u otras evidencias de actividad humana. El análisis micromorfológico también puede ser muy útil."
+      ]
+    },
+    {
+      "title": "¿Cuál es la mejor forma de clasificar fragmentos de cerámica neolítica?",
+      "body": "He excavado varios fragmentos de cerámica en un sitio neolítico, pero no estoy seguro de qué sistema de clasificación usar. ¿Alguna recomendación?",
+      "answers": []
+    },
+    {
+      "title": "¿Cómo identificar cuarzo de feldespato en condiciones de campo?",
+      "body": "Como geólogo principiante, me cuesta distinguir entre cuarzo y feldespato en el campo. ¿Consejos prácticos para identificarlos sin equipo de laboratorio?",
+      "answers": [
+        "El cuarzo es más duro (7 en la escala de Mohs) y no se raya con un cuchillo, mientras que el feldespato (6-6.5) sí. El cuarzo no tiene clivaje y presenta fractura concoidea.",
+        "Haz la 'prueba del diente': el cuarzo se siente más frío al tacto que el feldespato por su mayor conductividad térmica."
+      ]
+    }
+  ]
+}

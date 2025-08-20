@@ -1,0 +1,26 @@
+{
+  "title": "Política de Privacidad de {websiteName}",
+  "subtitle": "Protegiendo tus datos mientras exploras nuestra plataforma histórica y arqueológica",
+  "content": [
+    "En {websiteName}, nos comprometemos a proteger tu privacidad mientras interactúas con nuestra plataforma de datos históricos y arqueológicos. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos tu información.",
+    "Cumplimos con estrictos estándares de protección de datos para garantizar que tu información personal esté segura mientras accedes a nuestros recursos curados, recorridos virtuales y herramientas de investigación."
+  ],
+  "sections": [
+    {
+      "title": "Recopilación de Datos",
+      "content": "Recopilamos información personal, como tu nombre, correo electrónico y preferencias de cuenta, cuando te registras en {websiteName}. También recogemos datos de uso, como el historial de navegación y la interacción con contenido arqueológico, para mejorar tu experiencia. Toda la recopilación de datos se realiza conforme a las leyes de privacidad aplicables y se utiliza únicamente para mejorar nuestros servicios."
+    },
+    {
+      "title": "Uso de Datos",
+      "content": "Tu información se utiliza para brindarte acceso personalizado a las funciones de {websiteName}, como recomendaciones de contenido y herramientas de investigación. También podemos analizar patrones de uso para mejorar la funcionalidad de la plataforma y garantizar la precisión de los datos históricos y arqueológicos. No vendemos ni compartimos tus datos con terceros sin tu consentimiento, salvo que lo exija la ley."
+    },
+    {
+      "title": "Protección de Datos",
+      "content": "{websiteName} emplea cifrado estándar de la industria, autenticación segura y verificación basada en blockchain para proteger tus datos. Nuestra plataforma garantiza la confidencialidad de tus interacciones con registros arqueológicos sensibles, como metadatos de artefactos. Eres responsable de mantener seguras las credenciales de tu cuenta."
+    },
+    {
+      "title": "Tus Derechos",
+      "content": "Tienes derecho a acceder, actualizar o eliminar tu información personal en {websiteName}. Puedes gestionar tus preferencias de datos desde la configuración de tu cuenta o contactarnos en {websiteInfo.mail} para obtener asistencia. Cumplimos con regulaciones globales de protección de datos, asegurando transparencia y control sobre tu información mientras exploras nuestros recursos históricos."
+    }
+  ]
+}

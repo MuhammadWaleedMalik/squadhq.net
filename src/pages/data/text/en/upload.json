@@ -1,0 +1,75 @@
+{
+  "title": "Upload Archaeological Data",
+  "subtitle": "Contribute to our growing database of archaeological findings and research materials",
+  "uploadTitle": "Drag & Drop Files Here",
+  "uploadDescription": "Or click to browse your computer for archaeological files to upload",
+  "uploadButton": "Select Files",
+  "selectedFiles": "Selected Files",
+  "complete": "Complete",
+  "uploadProgress": "Upload Progress",
+  "uploadingButton": "Uploading...",
+  "submitButton": "Submit Files",
+  "metadataTitle": "File Metadata",
+  "metadataDescription": "Please provide information about your archaeological files to help with categorization and search",
+  "formFields": {
+    "siteName": "Site Name",
+    "location": "Geographic Location",
+    "era": "Historical Period/Era",
+    "description": "Description",
+    "tags": "Tags",
+    "tagsPlaceholder": "e.g., pottery, neolithic, excavation"
+  },
+  "supportedFilesTitle": "Supported File Types",
+  "fileTypes": [
+    {
+      "name": "Documents",
+      "formats": "PDF, DOC, DOCX, TXT"
+    },
+    {
+      "name": "Images",
+      "formats": "JPG, PNG, TIFF"
+    },
+    {
+      "name": "Maps",
+      "formats": "GeoJSON, SHP, KML"
+    },
+    {
+      "name": "Datasets",
+      "formats": "CSV, XLSX, JSON"
+    }
+  ],
+  "howItWorksTitle": "How It Works",
+  "steps": [
+    {
+      "title": "Upload Your Files",
+      "description": "Select archaeological documents, images, or datasets from your computer"
+    },
+    {
+      "title": "Add Metadata",
+      "description": "Provide details about your files to help others discover and use them"
+    },
+    {
+      "title": "Share with Researchers",
+      "description": "Your files will be available to archaeologists and researchers worldwide"
+    }
+  ],
+  "faqTitle": "Frequently Asked Questions",
+  "faqs": [
+    {
+      "question": "What types of archaeological data can I upload?",
+      "answer": "You can upload excavation reports, artifact catalogs, site maps, photographs, 3D scans, and any other research materials related to archaeology."
+    },
+    {
+      "question": "How is my data protected?",
+      "answer": "All uploaded files are stored securely. You can choose between public sharing or restricted access for sensitive materials."
+    },
+    {
+      "question": "Can I upload large datasets?",
+      "answer": "Yes, we support large file uploads up to 5GB per file. For even larger datasets, please contact our support team."
+    },
+    {
+      "question": "How do I cite materials I find here?",
+      "answer": "Each file includes citation information that you can use in your research. Please give proper attribution to the original contributors."
+    }
+  ]
+}

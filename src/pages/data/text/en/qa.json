@@ -1,0 +1,66 @@
+{
+  "title": "Archaeological & Geological Q&A",
+  "subtitle": "Ask questions and get answers from experts in archaeology and geology",
+  "categoriesTitle": "Categories",
+  "categories": [
+    {
+      "id": "archaeology",
+      "name": "Archaeology",
+      "count": "245"
+    },
+    {
+      "id": "geology",
+      "name": "Geology",
+      "count": "189"
+    },
+    {
+      "id": "dating",
+      "name": "Dating Methods",
+      "count": "76"
+    }
+  ],
+  "askQuestionTitle": "Ask a Question",
+  "formFields": {
+    "title": "What's your archaeological or geological question?",
+    "body": "Provide detailed information about your question...",
+    "tags": "Add tags (comma separated)",
+    "tagsHint": "e.g., stratigraphy, pottery, radiocarbon, minerals"
+  },
+  "submitQuestion": "Post Question",
+  "searchPlaceholder": "Search questions...",
+  "filters": {
+    "recent": "Recent",
+    "unanswered": "Unanswered",
+    "popular": "Popular"
+  },
+  "answer": "answer",
+  "answers": "answers",
+  "expert": "Expert",
+  "noAnswers": "No answers yet. Be the first to respond!",
+  "addAnswerPlaceholder": "Write your answer...",
+  "postAnswer": "Post Answer",
+  "noQuestionsTitle": "No questions found",
+  "noQuestionsDescription": "Try adjusting your search or ask a new question",
+  "sampleQuestions": [
+    {
+      "title": "How can I distinguish between natural and cultural layers in stratigraphy?",
+      "body": "I'm working on a site with complex stratigraphy and having trouble distinguishing between natural geological deposits and cultural layers. Are there specific indicators I should be looking for?",
+      "answers": [
+        "Look for changes in soil texture, color, and composition. Cultural layers often contain artifacts, charcoal, or evidence of human alteration. Micro-morphology analysis can also be very helpful in distinguishing between natural and cultural deposits."
+      ]
+    },
+    {
+      "title": "What's the best way to classify Neolithic pottery fragments?",
+      "body": "I've excavated several pottery fragments from a Neolithic site but I'm unsure about the best classification system to use. Any recommendations?",
+      "answers": []
+    },
+    {
+      "title": "How to identify quartz from feldspar in field conditions?",
+      "body": "As a beginner geologist, I'm having trouble distinguishing between quartz and feldspar when doing field work. What are some practical tips for identification without lab equipment?",
+      "answers": [
+        "Quartz is harder (7 on Mohs scale) and won't scratch with a steel knife, while feldspar (6-6.5) will. Quartz also lacks cleavage and shows conchoidal fracture.",
+        "Try the 'teeth test' - quartz feels colder to the touch than feldspar due to its higher thermal conductivity."
+      ]
+    }
+  ]
+}

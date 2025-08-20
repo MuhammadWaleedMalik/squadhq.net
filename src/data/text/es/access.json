@@ -1,0 +1,26 @@
+{
+  "title": "Políticas de Acceso y Uso de {websiteName}",
+  "subtitle": "Directrices para acceder y utilizar nuestra plataforma de datos históricos y arqueológicos",
+  "content": [
+    "Al acceder a {websiteName}, aceptas estas Políticas de Acceso y Uso, que regulan tu interacción con nuestra plataforma dedicada a datos históricos y arqueológicos.",
+    "Estas políticas garantizan un acceso responsable y seguro al contenido curado, herramientas de investigación y recursos comunitarios."
+  ],
+  "sections": [
+    {
+      "title": "Requisitos de Acceso",
+      "content": "Para acceder a {websiteName}, debes crear una cuenta y cumplir con nuestros procesos de verificación para asegurar el uso autorizado de los recursos históricos y arqueológicos."
+    },
+    {
+      "title": "Conducta del Usuario",
+      "content": "Los usuarios deben interactuar respetuosamente con el contenido de {websiteName}, absteniéndose de distribuir o modificar los datos sin autorización y cumpliendo con las normas comunitarias."
+    },
+    {
+      "title": "Uso de Datos",
+      "content": "El contenido de {websiteName} está destinado a fines educativos y de investigación. Cualquier uso comercial requiere permiso explícito y cumplimiento de los términos de licencia."
+    },
+    {
+      "title": "Seguridad y Privacidad",
+      "content": "{websiteName} emplea medidas de seguridad estándar de la industria para proteger tus datos. Eres responsable de mantener la confidencialidad de tus credenciales de cuenta."
+    }
+  ]
+}

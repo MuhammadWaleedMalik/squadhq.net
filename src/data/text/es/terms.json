@@ -1,0 +1,26 @@
+{
+  "title": "{websiteName} Terms of Service",
+  "subtitle": "Governing your exploration of our historical and archaeological data platform",
+  "content": [
+    "By accessing {websiteName}, you agree to these Terms of Service, which govern your use of our platform dedicated to historical and archaeological data and resources.",
+    "These terms ensure a respectful and secure experience for all users, supporting access to curated historical content and interactive tools."
+  ],
+  "sections": [
+    {
+      "title": "Acceptance of Terms",
+      "content": "By using {websiteName}, you agree to comply with these terms, including adherence to our policies for accessing and sharing historical and archaeological data."
+    },
+    {
+      "title": "User Responsibilities",
+      "content": "You are responsible for maintaining accurate account information, respecting intellectual property rights, and using {websiteName}’s resources for lawful and educational purposes."
+    },
+    {
+      "title": "Limitation of Liability",
+      "content": "{websiteName} is not liable for losses from unauthorized access or misuse, provided we maintain industry-standard security measures for data protection."
+    },
+    {
+      "title": "Content Usage Agreements",
+      "content": "All content accessed on {websiteName}, including historical data and archaeological resources, is subject to usage agreements ensuring proper attribution and compliance."
+    }
+  ]
+}

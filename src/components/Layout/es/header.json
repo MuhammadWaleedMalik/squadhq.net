@@ -1,0 +1,17 @@
+{
+  "logoAlt": "Logotipo de {websiteName}",
+  "nav": {
+    "about": "Sobre Nosotros",
+    "uploadFiles": "Subir Archivos",
+    "searchHistory": "Buscar Historia",
+    "research": "Investigación",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar Sesión",
+    "askQuestion": "Hacer una Pregunta"
+  },
+  "languageSelector": {
+    "heading": "Idiomas",
+    "changeLanguageLabel": "Cambiar Idioma"
+  }
+}

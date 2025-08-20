@@ -1,0 +1,75 @@
+{
+  "title": "上传考古数据",
+  "subtitle": "为我们不断增长的考古发现和研究资料库贡献内容",
+  "uploadTitle": "拖放文件到此处",
+  "uploadDescription": "或点击以浏览您的计算机并上传考古文件",
+  "uploadButton": "选择文件",
+  "selectedFiles": "已选择文件",
+  "complete": "完成",
+  "uploadProgress": "上传进度",
+  "uploadingButton": "正在上传…",
+  "submitButton": "提交文件",
+  "metadataTitle": "文件元数据",
+  "metadataDescription": "请提供有关您的考古文件的信息，以便分类和搜索",
+  "formFields": {
+    "siteName": "遗址名称",
+    "location": "地理位置",
+    "era": "历史时期/时代",
+    "description": "描述",
+    "tags": "标签",
+    "tagsPlaceholder": "例如：陶器，新石器时代，发掘"
+  },
+  "supportedFilesTitle": "支持的文件类型",
+  "fileTypes": [
+    {
+      "name": "文档",
+      "formats": "PDF、DOC、DOCX、TXT"
+    },
+    {
+      "name": "图像",
+      "formats": "JPG、PNG、TIFF"
+    },
+    {
+      "name": "地图",
+      "formats": "GeoJSON、SHP、KML"
+    },
+    {
+      "name": "数据集",
+      "formats": "CSV、XLSX、JSON"
+    }
+  ],
+  "howItWorksTitle": "操作流程",
+  "steps": [
+    {
+      "title": "上传您的文件",
+      "description": "从您的计算机中选择考古文档、图像或数据集"
+    },
+    {
+      "title": "添加元数据",
+      "description": "提供文件信息，帮助他人发现并使用这些资料"
+    },
+    {
+      "title": "与研究人员共享",
+      "description": "您的文件将对全球考古学家和研究人员开放"
+    }
+  ],
+  "faqTitle": "常见问题",
+  "faqs": [
+    {
+      "question": "我可以上传哪些类型的考古数据？",
+      "answer": "您可以上传发掘报告、文物目录、遗址地图、照片、3D 扫描以及任何与考古研究相关的资料。"
+    },
+    {
+      "question": "我的数据如何受到保护？",
+      "answer": "所有上传的文件都会安全存储。您可以选择公开共享或对敏感资料进行限制访问。"
+    },
+    {
+      "question": "我可以上传大型数据集吗？",
+      "answer": "可以，我们支持每个文件最大 5GB 的上传。如需上传更大数据集，请联系我们的支持团队。"
+    },
+    {
+      "question": "我如何引用在这里找到的资料？",
+      "answer": "每个文件都包含可用于研究的引用信息。请适当注明原始贡献者。"
+    }
+  ]
+}

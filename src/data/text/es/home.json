@@ -1,0 +1,119 @@
+{
+  "page1": {
+    "title": "Preservando el Pasado para el Futuro",
+    "description": "es tu archivo en línea para información arqueológica."
+  },
+  "page2": {
+    "items": [
+      {
+        "title": "Access / Use",
+        "subtitle": "Acceso y Uso",
+        "description": "Ampliando el acceso a los datos arqueológicos mediante funciones simples de búsqueda y navegación.",
+        "icon": "Search"
+      },
+      {
+        "title": "Stewardship",
+        "subtitle": "Subir Recursos",
+        "description": "Contribuye con documentos, conjuntos de datos, imágenes y otros materiales arqueológicos clave.",
+        "icon": "Upload"
+      },
+      {
+        "title": "Preservation",
+        "subtitle": "Preservación",
+        "description": "Dedicados a garantizar la preservación a largo plazo de los datos digitales arqueológicos.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Use",
+        "subtitle": "¿Quién lo usa?",
+        "description": "Investigadores como tú. Descubre el conocimiento del pasado y protege los recursos.",
+        "icon": "Users"
+      }
+    ]
+  },
+  "page3": {
+    "slides": [
+      {
+        "image": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/geojson(%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22stroke-width%22%3A4%2C%22stroke%22%3A%22%237a1501%22%2C%22stroke-opacity%22%3A0.5%2C%22fill-opacity%22%3A0.15%7D%2C%22geometry%22%3A%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B-110.64846066266844%2C32.82611990954123%5D%2C%5B-110.64846066266844%2C32.85809331698177%5D%2C%5B-110.61125924478108%2C32.85809331698177%5D%2C%5B-110.61125924478108%2C32.82611990954123%5D%2C%5B-110.64846066266844%2C32.82611990954123%5D%5D%5D%7D%7D)/auto/410x235?access_token=pk.eyJ1IjoiYWJyaW4iLCJhIjoiNzNlMWRhMDQ1MTBlYzAwMmRiOTRhNzYxMTY2NDY1MTMifQ.ZDirx5xDnYHsAo7kxAI13g",
+        "title": "Base de Datos Arqueológica Global",
+        "text": "Sumérgete en uno de los repositorios más grandes del mundo de registros arqueológicos, que abarca continentes y culturas. Nuestra base de datos reúne miles de informes de sitios, diarios de excavación y artefactos culturales. Ya seas arqueólogo profesional o estudiante curioso, este recurso potenciará tu investigación. Actualizado regularmente con nuevos hallazgos e información verificada. Descubre el pasado oculto de la humanidad con solo unos clics."
+      },
+      {
+        "image": "https://core.tdar.org/files/sm/104896",
+        "title": "Preservación Segura de Datos",
+        "text": "Tus datos arqueológicos son demasiado valiosos para perderse en el tiempo. Nuestra plataforma emplea cifrado de nivel militar, copias de seguridad redundantes y estructuras de metadatos avanzadas. Aseguramos que tus registros permanezcan intactos, accesibles y preservados para las generaciones futuras. No es solo almacenamiento: es un legado digital."
+      },
+      {
+        "image": "https://core.tdar.org/files/sm/104896",
+        "title": "Colaboración en la Investigación",
+        "text": "Rompe las barreras geográficas y académicas con nuestra red global de investigación. Colabora con expertos, universidades e instituciones en proyectos arqueológicos innovadores. Comparte ideas, publica en conjunto y amplía tu impacto. Nuestra plataforma hace que la colaboración internacional sea sencilla."
+      }
+    ]
+  },
+  "page4": {
+    "title": "¿Qué Hay de Nuevo en {website.name}?",
+    "newsItems": [
+      {
+        "date": "29 Sep",
+        "title": "Cambios en los Precios",
+        "author": "Rachel Fernandez",
+        "text": "Rachel Fernandez, arqueóloga con más de 15 años de experiencia en campo y archivos, analiza las últimas actualizaciones en la estructura de precios de nuestra plataforma. Sus comentarios promueven la transparencia y ayudan a las instituciones a planificar mejor el acceso y almacenamiento de datos."
+      },
+      {
+        "date": "16 May",
+        "title": "Presentamos a Sébastien Plutniak",
+        "author": "Rachel Fernandez",
+        "text": "En este artículo, Rachel Fernandez presenta el trabajo innovador del Dr. Sébastien Plutniak, especialista en datos arqueológicos. Descubre cómo sus ideas están transformando la forma en que analizamos e interpretamos la información arqueológica."
+      },
+      {
+        "date": "27 Mar",
+        "title": "Conferencia SAA 2023",
+        "author": "Rachel Fernandez",
+        "text": "Rachel Fernandez ofrece un resumen detallado de la conferencia de la Sociedad de Arqueología Americana 2023, destacando presentaciones clave y talleres que están redefiniendo las mejores prácticas en arqueología digital."
+      },
+      {
+        "date": "29 Mar",
+        "title": "Conferencia SAA 2022",
+        "author": "Rachel Fernandez",
+        "text": "Una mirada retrospectiva a la conferencia de 2022 con Rachel Fernandez, que combina rigor académico con narrativa personal para destacar tecnologías emergentes y tendencias colaborativas en investigación arqueológica."
+      },
+      {
+        "date": "30 Jul",
+        "title": "Encuesta sobre Arqueología y Gestión de Datos",
+        "author": "Rachel Fernandez",
+        "text": "Este blog resume la encuesta realizada por Rachel Fernandez sobre cómo los arqueólogos gestionan sus datos digitales. Basándose en su trabajo de campo global, analiza las necesidades cambiantes y soluciones digitales del sector."
+      }
+    ]
+  },
+  "page5": {
+    "title": "Colección Destacada",
+    "content": "Centro de Tecnologías Espaciales Avanzadas (CAST), Universidad de Arkansas: CAST se enfoca en investigación, educación y divulgación relacionadas con geoinformática y geomática. Las áreas de investigación incluyen SIG, análisis espacial, levantamientos de alta densidad, bases de datos espaciales empresariales, teledetección, fotogrametría digital e interoperabilidad de datos y modelos geoespaciales."
+  },
+  "page6": {
+    "title": "Herramientas de Investigación Avanzadas",
+    "content": "Nuestra plataforma ofrece potentes herramientas para la investigación y análisis de datos arqueológicos. Con {website.name}, puedes acceder a conjuntos de datos especializados, realizar análisis espaciales y colaborar con investigadores de todo el mundo. Diseñadas tanto para la investigación académica como para la gestión del patrimonio cultural."
+  },
+  "page7": {
+    "title": "Lo Que Dicen los Investigadores Sobre Nosotros",
+    "reviews": [
+      {
+        "name": "Dra. Sarah Johnson",
+        "role": "Profesora de Arqueología, Universidad de Arizona",
+        "quote": "transformado la forma en que accedemos y compartimos datos arqueológicos. Las funciones de preservación me dan confianza de que nuestra investigación perdurará.",
+        "rating": 5
+      },
+      {
+        "name": "Mark Williams",
+        "role": "Gerente de Recursos Culturales",
+        "quote": "La funcionalidad de búsqueda y organización de datos en {website.name} nos ahorra incontables horas en la planificación y elaboración de informes de campo.",
+        "rating": 4
+      },
+      {
+        "name": "Dra. Elena Rodriguez",
+        "role": "Investigadora, Ciudad de México",
+        "quote": "Como investigadora internacional, valoro cómo {website.name} me conecta con colegas y recursos de todo el mundo. Es una herramienta esencial en mi trabajo.",
+        "rating": 5
+      }
+    ]
+  }
+}
